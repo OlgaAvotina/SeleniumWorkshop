@@ -1,0 +1,1 @@
+{"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","name":"timeline","children":[{"name":"Successful sign-up","uid":"ed5c7f7680103bb5","parentUid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","status":"passed","time":{"duration":7940},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}]}

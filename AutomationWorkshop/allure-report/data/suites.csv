@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","7940","","testrunner.TestRunner","","This feature is about creating new account in the system","","Successful sign-up",""
